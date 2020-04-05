@@ -66,7 +66,7 @@ This page(code, report and presentation) is the Group A submission for the final
 
 The group members are: Anket Sah, Amala Chirayil, Ksheeraj Sai Vepuri, Kriti Gupta, Sanmesh Bhosale.
 
-The code maybe used for educational and commercial use under no warranties. For questions on this project and code please reach out to: amalachirayil@gmail.com.
+The code maybe used for educational and commercial use under no warranties. For questions on this project and code please reach out to: anketsah@gmail.com.
 
 Credits:
 
